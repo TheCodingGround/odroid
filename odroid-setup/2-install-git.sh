@@ -12,3 +12,5 @@ sudo apt-get install git --yes
 sudo apt-get install git gui --yes
 sudo apt-get install gitk --yes
 
+# configure config
+git config --global push.default simple
