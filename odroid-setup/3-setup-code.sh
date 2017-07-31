@@ -1,3 +1,7 @@
+#setup https transport
+
+sudo apt-get install apt-transport-https
+
 #for this session
 http_proxy=http://192.168.1.104:3128
 https_proxy=http://192.168.1.104:3128
